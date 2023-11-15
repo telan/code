@@ -1,2 +1,2 @@
 #!/bin/bash
-jamf recon -verbose && jamf policy -verbose
+jamf recon && jamf policy
