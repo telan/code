@@ -1,6 +1,6 @@
 
-$wcitRepo = "wcit"
-$wcitSubj = "drivers"
+$wcitRepo = ""
+$wcitSubj = ""
 
 $wcitRepoPath = "c:\"+$wcitRepo+"\"
 $wcitSubjPath = $wcitRepoPath+$wcitSubj+"\"
